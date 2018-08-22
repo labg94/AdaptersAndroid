@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PruebaAdapter</string>
+    <string name="opcion">Opcion</string>
+
+    <string-array name="Horas">
+        <item>6:00pm</item>
+        <item>7:00pm</item>
+        <item>8:00pm</item>
+        <item>9:00pm</item>
+    </string-array>
+
+    <string name="activo">activo</string>
+    <string name="desactivado">desactivado</string>
+
+    <string-array name="estado">
+        <item>activada</item>
+        <item>descativada</item>
+        <item>activada</item>
+        <item>descativada</item>
+    </string-array>
+</resources>
